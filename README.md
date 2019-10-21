@@ -80,6 +80,7 @@ Epoch 10/10
 112800/112800 [==============================] - 32s 287us/sample - loss: 0.2337 - accuracy: 0.9070
 
 Test accuracy: 0.8383511
+##### I choose model 6 has best model among all the models because it gives best accuracy on both Training and Testing
 
 I had explained my solution to the problem step-by-step in the [oflinterntask_model6.ipynb](https://github.com/MALLI7622/OneFourthLabs-Internship-Task/blob/master/oflinterntask_model6.ipynb). I had uploaded it to the GitHub repository
 
