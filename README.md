@@ -1,7 +1,7 @@
 # OneFourthLabs-Internship-Task
 One Fourth Labs Internship Interview Round 1 -- Programming Assessment
 
-For solving this problem, I had used [TensorFlow](https://www.tensorflow.org) A Machine Learning Library.
+For solving this problem, I had used [TensorFlow](https://www.tensorflow.org) A Machine Learning Library developed by Google.
 
 I had attached my step-by-step jupyter notebook solution for this problem [here](https://github.com/MALLI7622/OneFourthLabs-Internship-Task/blob/master/oflinterntask.ipynb). 
 
