@@ -41,7 +41,7 @@ I had explained my solution to the problem step-by-step in the [oflinterntask.ip
 
 ##### Instructions to run the code
 
-I had also uploaded [oflinterntask.py](https://github.com/MALLI7622/OneFourthLabs-Internship-Task/blob/master/oflinterntask.py) file. You can download it and run it in your own system.
+I had also uploaded [oflinterntask_model5.py](https://github.com/MALLI7622/OneFourthLabs-Internship-Task/blob/master/oflinterntask_model5.py) file. You can download it and run it in your own system.
 
 If you have tensorflow environment in your system. You can activate by the following command
 $ conda activate tensorflow
