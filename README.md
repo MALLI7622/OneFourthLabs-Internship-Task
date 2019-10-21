@@ -37,7 +37,7 @@ $ cd [Directory name]
 
 Now run the file
 
-$python oflinterntask.py
+$ python oflinterntask.py
 
 ###### or 
 You can download [oflinterntask.ipynb](https://github.com/MALLI7622/OneFourthLabs-Internship-Task/blob/master/oflinterntask.ipynb) file run each cell for better understanding.
