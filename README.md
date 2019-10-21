@@ -9,7 +9,19 @@ I had applied different Deep Learning models mentioned below:
 
 1 ) input : 784 ---> hidden : 256 ----> output : 47  
 
+Training Accuracy at last epoch is:
+
+
+Epoch 10/10
+
+112800/112800 [==============================] - 34s 302us/sample - loss: 0.2811 - accuracy: 0.8922
+
+Test accuracy: 0.84271276
+
+
 2 ) input : 784 ---> hidden_1 : 256 -----> hidden_2 : 128 ----> output : 47
+
+
 
 3 ) input : 784 ---> hidden_1 : 256 -----> hidden_2 : 64 ----> output : 47
 
