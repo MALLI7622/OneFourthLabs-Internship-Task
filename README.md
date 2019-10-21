@@ -5,9 +5,16 @@ For solving this problem, I had used [TensorFlow](https://www.tensorflow.org) A 
 
 I had attached my step-by-step jupyter notebook solution for this problem [here](https://github.com/MALLI7622/OneFourthLabs-Internship-Task/blob/master/oflinterntask.ipynb). 
 
-Below is the Deep Learning Model, I created for solving this problem
+I had applied different Deep Learning models mentioned below:
 
-After applying different batch sizes, neural networks, and epochs. I had got the following results in trainig
+1 ) input : 784 ---> hidden : 256 ----> output : 47  
+2 ) input : 784 ---> hidden_1 : 256 -----> hidden_2 : 128 ----> output : 47
+3 ) input : 784 ---> hidden_1 : 256 -----> hidden_2 : 64 ----> output : 47
+4 ) input : 784 ---> hidden_1 : 256 -----> hidden_2 : 64 ----> output : 47
+5 ) input : 784 ---> hidden_1 : 256 -----> hidden_2 : 128 ----> hidden_3 : 64 ----> output : 47
+
+After applying these models I found  input : 784 ---> hidden_1 : 256 -----> hidden_2 : 128 ----> hidden_3 : 64 ----> output : 47
+     this network produces better accuracy results. Below I had mentioned my better accuaracy and loss results. 
 
 ##### Training Accuracy
 
