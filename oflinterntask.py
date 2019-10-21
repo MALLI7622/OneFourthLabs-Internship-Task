@@ -122,7 +122,7 @@ train_data = duplicate_data.append(train_csv_data)
 
 # For training we have to seperate Label_ID's and dataset. For that one I assigned to labels. Later I will drop
 # train_data["Label_ID"] from train_data
-#labels = train_data["Label_ID"]
+labels = train_data["Label_ID"]
 
 
 # In[15]:
