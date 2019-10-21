@@ -225,7 +225,7 @@ model = keras.Sequential([
     keras.layers.Flatten(input_shape=(28, 28)),
     keras.layers.Dense(784, activation = 'relu'),
     keras.layers.Dense(256, activation = 'relu'),
-    keras.layers.Dense(64, activation = 'relu'),
+    keras.layers.Dense(128, activation = 'relu'),
     keras.layers.Dense(47, activation='softmax')
 ])
 
