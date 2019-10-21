@@ -17,8 +17,11 @@ I had applied different Deep Learning models mentioned below:
 
 5 ) input : 784 ---> hidden_1 : 256 -----> hidden_2 : 128 ----> hidden_3 : 64 ----> output : 47
 
-After applying these models I found  input : 784 ---> hidden_1 : 256 -----> hidden_2 : 128 ----> hidden_3 : 64 ----> output : 47
-     this network produces better accuracy results. Below I had mentioned my better accuaracy and loss results. 
+After applying these models I found  
+
+input : 784 ---> hidden_1 : 256 -----> hidden_2 : 128 ----> hidden_3 : 64 ----> output : 47
+
+this network produces better accuracy results. Below I had mentioned my better accuaracy and loss results. 
 
 ##### Training Accuracy
 
@@ -54,5 +57,5 @@ $ python oflinterntask.py
 You can download [oflinterntask.ipynb](https://github.com/MALLI7622/OneFourthLabs-Internship-Task/blob/master/oflinterntask.ipynb) file run each cell in your jupyter notebook for better understanding.
 
 
-### Thank You
+## Thank You
 
