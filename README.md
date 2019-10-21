@@ -99,7 +99,7 @@ $ python oflinterntask.py
 
 #### or 
 
-You can download [oflinterntask.ipynb](https://github.com/MALLI7622/OneFourthLabs-Internship-Task/blob/master/oflinterntask.ipynb) file run each cell in your jupyter notebook for better understanding.
+You can download [oflinterntask_model6.ipynb](https://github.com/MALLI7622/OneFourthLabs-Internship-Task/blob/master/oflinterntask_model6.ipynb) file run each cell in your jupyter notebook for better understanding.
 
 
 ## Thank You
